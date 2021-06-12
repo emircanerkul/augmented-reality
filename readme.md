@@ -11,9 +11,9 @@ You can try clicking right [here](https://emircanerkul.github.io/augmented-reali
 
 ### Card Types
 - 4E: Robot will be on this card. (4E stands for my group short name)
-- B: When you show this card into the camera, the robot will be in standing mode.
-- K: When you show this card into the camera, the robot will be in running mode.
-- B: When you show this card into the camera, the robot will be in dancing mode.
+- B: When you show this card to the camera, the robot will be in standing mode.
+- K: When you show this card to the camera, the robot will be in running mode.
+- B: When you show this card to the camera, the robot will be in dancing mode.
 - Z: When you show this card to the camera, the robot will jump.
 - E: When you show this card to the camera, the robot will wave.
 - Y: When you show this card to the camera, the robot will punch.
