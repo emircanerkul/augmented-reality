@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Point Counter</string>
+    <string name="photo_capture">Fotoğraf Çek</string>
+    <string name="count_points">Noktaları Say</string>
+    <string name="wait_process">Lütfen işlemin tamamlanmasını bekleyin</string>
+    <string name="cam_perm_denied">Kamera Yetkisi Reddedildi</string>
+    <string name="cam_perm_granted">Kamera Yetkisi Verildi</string>
+</resources>

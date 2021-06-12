@@ -1,0 +1,712 @@
+{
+    "ca": {
+        "t": "Canada",
+        "data": [
+            {
+                "title": "ClmTec",
+                "desc": "medical Image Analysis, digital pathology",
+                "url": "http://www.cimtec-canada.ca/"
+            },
+            {
+                "title": "Ikomed",
+                "desc": "medical Image Analysis",
+                "url": "http://www.ikomed.com/careers/"
+            },
+            {
+                "title": "algolux",
+                "desc": "Imaging and vision system optimization",
+                "url": "http://algolux.com/"
+            },
+            {
+                "title": "Wrnch",
+                "desc": "Poste and behaviour estimation",
+                "url": "https://wrnch.ai/"
+            }
+        ]
+    },
+    "pl": {
+        "t": "Poland",
+        "data": [
+            {
+                "title": "Adaptive Vision",
+                "desc": "Industrial image analysis applications",
+                "url": "http://www.adaptive-vision.com/"
+            },
+            {
+                "title": "Plastream",
+                "desc": "SAAS AI analytics video platform",
+                "url": "http://plastream.net/"
+            }
+        ]
+    },
+    "nz": {
+        "t": "New Zealand",
+        "data": [
+            {
+                "title": "websight",
+                "desc": "Machine Vision solutions on demand",
+                "url": "http://www.websight.co/"
+            }
+        ]
+    },
+    "fr": {
+        "t": "France",
+        "data": [
+            {
+                "title": "pleiades techs",
+                "desc": "contract company",
+                "url": "http://www.pleiades-technologies.com/"
+            },
+            {
+                "title": "DxO Labs",
+                "desc": "image enhancement technologies",
+                "url": "http://www.dxo.com/us/photo"
+            },
+            {
+                "title": "geosys",
+                "desc": "agriculture performance",
+                "url": "http://www.geosys.com/"
+            },
+            {
+                "title": "exelis VIS",
+                "desc": "visual information solutions",
+                "url": "http://www.exelisvis.com/"
+            },
+            {
+                "title": "vidatis",
+                "desc": "video processing",
+                "url": "http://www.vidatis.fr/"
+            },
+            {
+                "title": "moodstocks",
+                "desc": "mobile image recognition",
+                "url": "http://www.moodstocks.com/"
+            },
+            {
+                "title": "diotasoft",
+                "desc": "Diotasoft | 3D virtual reality",
+                "url": "http://www.diotasoft.com/spip.php?article3"
+            },
+            {
+                "title": "Pimaia",
+                "desc": "Picture Illustration Modeling Automatism",
+                "url": "http://pimaia.com/"
+            },
+            {
+                "title": "Total Immersion",
+                "desc": "Augmented Reality Solutions for retail",
+                "url": "http://www.t-immersion.com/"
+            },
+            {
+                "title": "VideoStitch",
+                "desc": "VideoStitch | 360 video made easy",
+                "url": "http://www.video-stitch.com/"
+            },
+            {
+                "title": "SentioSports",
+                "desc": "Sport Analytics",
+                "url": "http://sentiosports.com/career.html"
+            }
+        ]
+    },
+    "us": {
+        "t": "United States",
+        "data": [
+            {
+                "title": "gentex corporation",
+                "desc": "smart driving systems",
+                "url": "http://www.gentex.com/"
+            },
+            {
+                "title": "a9",
+                "desc": "visual search solutions",
+                "url": "http://a9.com/"
+            },
+            {
+                "title": "COGNEX",
+                "desc": "industrial applications",
+                "url": "http://www.cognex.com/"
+            },
+            {
+                "title": "hp labs",
+                "desc": "machine learning",
+                "url": "http://www.hpl.hp.com/"
+            },
+            {
+                "title": "philips healthcare",
+                "desc": "medical imagery",
+                "url": "http://www.healthcare.philips.com/"
+            },
+            {
+                "title": "interphase",
+                "desc": " desktop virtualization solutions",
+                "url": "http://www.iphase.com"
+            },
+            {
+                "title": "Nokia",
+                "desc": "3D mapping technology",
+                "url": "www.nokia.com/global/about-nokia/careers/"
+            },
+            {
+                "title": "Kla Tencor",
+                "desc": " metrology, optics, inspection platforms",
+                "url": "http://www.kla-tencor.com"
+            },
+            {
+                "title": "immersive labs",
+                "desc": " computer vision based advertising technology",
+                "url": "http://immersivelabs.com/"
+            },
+            {
+                "title": "intuitive surgical",
+                "desc": "robot-assisted surgery",
+                "url": "http://intuitivesurgical.hodesiq.com/job_detail.asp?JobID=2900801"
+            },
+            {
+                "title": "IBG",
+                "desc": "biometric systems",
+                "url": "http://www.ibgweb.com/about/company"
+            },
+            {
+                "title": "imimtek",
+                "desc": "user interfaces",
+                "url": "http://imimtek.com/"
+            },
+            {
+                "title": "ppt vision",
+                "desc": "automated inspection systems",
+                "url": "http://www.pptvision.com/index.html"
+            },
+            {
+                "title": "HHMI",
+                "desc": "medical imagery",
+                "url": "http://www.hhmi.org/janelia/"
+            },
+            {
+                "title": "occipital",
+                "desc": "natural user interfaces",
+                "url": "http://occipital.com/jobs"
+            },
+            {
+                "title": "ng",
+                "desc": "security, defence",
+                "url": "http://careers.northropgrumman.com/career_areas.html"
+            },
+            {
+                "title": "justin.tv",
+                "desc": "live video platform",
+                "url": "http://jobs.justin.tv/index.html"
+            },
+            {
+                "title": "incogna",
+                "desc": "image search engine",
+                "url": "http://www.incogna.com/?p=careers"
+            },
+            {
+                "title": "video surf",
+                "desc": "video search engine",
+                "url": "http://www.videosurf.com/jobs"
+            },
+            {
+                "title": "tyzx",
+                "desc": "3D sensors",
+                "url": "http://www.tyzx.com/careers/index.html"
+            },
+            {
+                "title": "object video",
+                "desc": "video processing algorithms",
+                "url": "http://www.objectvideo.com/"
+            },
+            {
+                "title": "honeywell",
+                "desc": " Video Analytics",
+                "url": "http://honeywell.com/Solutions-Technologies/Pages/security.aspx"
+            },
+            {
+                "title": "skybox",
+                "desc": " Satellite Imagery",
+                "url": "http://skyboximaging.com/careers/culture"
+            },
+            {
+                "title": "park assist",
+                "desc": "parking lot space monitoring",
+                "url": "www.parkassist.com"
+            },
+            {
+                "title": "ailive",
+                "desc": "Motion recognition and tracking",
+                "url": "http://www.ailive.net/careers.html"
+            },
+            {
+                "title": "hover",
+                "desc": "3D Mapping",
+                "url": "http://www.hoverinc.com/hover-jobs.php"
+            },
+            {
+                "title": "aptina",
+                "desc": "CMOS Technology",
+                "url": "http://www.aptina.com/careers/"
+            },
+            {
+                "title": "OptraScan website",
+                "desc": "Digital Pathology Solutions",
+                "url": "http://www.optrascan.com/"
+            },
+            {
+                "title": "Honda Research",
+                "desc": "Scene Understanding and Risk Assessment",
+                "url": "http://www.hondaresearch.com/"
+            },
+            {
+                "title": "Image Metrics main page",
+                "desc": "Facial analysis",
+                "url": "http://www.image-metrics.com/"
+            },
+            {
+                "title": "Pelican Imaging Main Page ",
+                "desc": "3D photography",
+                "url": "http://www.pelicanimaging.com/"
+            },
+            {
+                "title": "Graftek Imaging ",
+                "desc": "Vision System Parts",
+                "url": "http://www.graftek.com/"
+            },
+            {
+                "title": "NVIDIA",
+                "desc": "Visual Computing Computer Graphics",
+                "url": "http://careers.nvidia.com/pljb/nvidia/nvidiaemployment/applicant/index.jsp"
+            },
+            {
+                "title": "Microscan",
+                "desc": "Computer Vision Systems",
+                "url": "http://www.microscan.com/en-us/aboutus/CareerOpportunities.aspx"
+            },
+            {
+                "title": "DAQRI",
+                "desc": "4D Augmented Reality",
+                "url": "http://daqri.com/careers/"
+            },
+            {
+                "title": "kairos",
+                "desc": "Facial Recognition as a Service",
+                "url": "http://www.kairos.com/"
+            },
+            {
+                "title": "LTU Technologies",
+                "desc": "Image Recognition Platform",
+                "url": "http://www.ltutech.com/"
+            },
+            {
+                "title": "Code Laboratories",
+                "desc": "Real-time imaging Solutions",
+                "url": "http://duo3d.com"
+            },
+            {
+                "title": "FotoNation",
+                "desc": "Real-time imaging Solutions",
+                "url": "http://www.fotonation.com"
+            },
+            {
+                "title": "imerit",
+                "desc": "Machine learning, Segmentation",
+                "url": "https://imerit.net/"
+            },
+            {
+                "title": "sighthound",
+                "desc": "SDK and cloud APIs for businesses",
+                "url": "https://www.sighthound.com/"
+            },
+            {
+                "title": "Second Spectrum",
+                "desc": " Real Time sports analytics",
+                "url": "https://www.secondspectrum.com/careers.html"
+            },
+            {
+                "title": "Curalate",
+                "desc": "Visual Commerce Software",
+                "url": "https://www.curalate.com/about/"
+            },
+            {
+                "title": "Pixm",
+                "desc": "Computer Vision based phishing protection",
+                "url": "https://pixm.net/"
+            },
+            {
+                "title": "GumGum",
+                "desc": " An applied computer vision company",
+                "url": "https://gumgum.com/"
+            },
+            {
+                "title": "GE Global Research",
+                "desc": "medical image analysis",
+                "url": "http://ge.geglobalresearch.com/"
+            },
+            {
+                "title": "Yahoo! ",
+                "desc": "machine learning, data mining, information retrieval",
+                "url": "http://labs.yahoo.com/"
+            },
+            {
+                "title": "optra systems",
+                "desc": "algorithm development",
+                "url": "http://www.optrasystems.com/"
+            },
+            {
+                "title": "vizzitec",
+                "desc": "Visual Inspection Solutions",
+                "url": "http://vizzitec.com/"
+            },
+            {
+                "title": "pixuate",
+                "desc": "Image Processing as a Service",
+                "url": "http://pixuate.com/"
+            }
+        ]
+    },
+    "es": {
+        "t": "Spain",
+        "data": [
+            {
+                "title": "ARLab",
+                "desc": "augmented reality for desktops and smartphones",
+                "url": "http://www.arlab.com/"
+            },
+            {
+                "title": "ElipseAR",
+                "desc": " mobile real-time tracking",
+                "url": "http://elipsear.com/contact"
+            },
+            {
+                "title": "visiza",
+                "desc": "object recognition and people recognition",
+                "url": "http://www.visiza.com/en/"
+            },
+            {
+                "title": "Samsamia website",
+                "desc": " machine learning apps to the fashion market",
+                "url": "http://www.samsamia.com/"
+            },
+            {
+                "title": "LetGo",
+                "desc": "Marketplace for second hand items",
+                "url": "https://www.letgo.nl/"
+            }
+        ]
+    },
+    "ru": {
+        "t": "Russian Federation",
+        "data": [
+            {
+                "title": "Itseez",
+                "desc": "Computer vision software and consulting services",
+                "url": "http://itseez.com/jobs/"
+            }
+        ]
+    },
+    "in": {
+        "t": "India",
+        "data": [
+            {
+                "title": "KritiKal Solutions",
+                "desc": "OCR Solutions",
+                "url": "http://kritikalsolutions.com/"
+            },
+            {
+                "title": "FaceX",
+                "desc": "Facial Recognition Software",
+                "url": "http://facex.io"
+            }
+        ]
+    },
+    "de": {
+        "t": "Germany",
+        "data": [
+            {
+                "title": "carl zeiss",
+                "desc": "medical industry, optics",
+                "url": "http://www.zeiss.de/C12567A100537AB9?Open"
+            },
+            {
+                "title": "atlas elektronik",
+                "desc": " Naval electronics",
+                "url": "http://www.atlas-elektronik.com/en/company/"
+            },
+            {
+                "title": "Nerian Vision GmbH",
+                "desc": "3D camera systems",
+                "url": "https://nerian.com/"
+            }
+        ]
+    },
+    "no": {
+        "t": "Norway",
+        "data": [
+            {
+                "title": "tordivel",
+                "desc": " industrial machine vision, 3D modeling",
+                "url": "http://www.scorpionvision.com/31.html"
+            },
+            {
+                "title": "CMR",
+                "desc": "visualization, data analysis",
+                "url": "http://www.cmr.no/"
+            }
+        ]
+    },
+    "se": {
+        "t": "Sweden",
+        "data": [
+            {
+                "title": "spacemetric",
+                "desc": "geospatial imagery management",
+                "url": "http://www.spacemetric.com/about"
+            },
+            {
+                "title": "smarteye",
+                "desc": "eye tracking technology",
+                "url": "http://www.smarteye.se/"
+            },
+            {
+                "title": "axis communications",
+                "desc": "IP video solutions",
+                "url": "http://www.axis.com/"
+            },
+            {
+                "title": "Cella Vision",
+                "desc": "body fluids analysis",
+                "url": "http://www.cellavision.com/"
+            },
+            {
+                "title": "scalado",
+                "desc": "mobile imagery solutions",
+                "url": "http://www.scalado.com/display/en/Home"
+            },
+            {
+                "title": "anoto",
+                "desc": "digital pen technology",
+                "url": "http://www.anoto.com/"
+            },
+            {
+                "title": "tobii",
+                "desc": "gaze tracking technology",
+                "url": "http://www.tobii.com/"
+            },
+            {
+                "title": "oculus",
+                "desc": "image recognition technology",
+                "url": "http://www.oculusai.com/index.html"
+            },
+            {
+                "title": "flir",
+                "desc": " thermal imaging",
+                "url": "http://www.flir.com/NL/"
+            },
+            {
+                "title": "Vicator",
+                "desc": " augmented reality design",
+                "url": "http://www.vicator.com/"
+            }
+        ]
+    },
+    "gb": {
+        "t": "United Kingdom",
+        "data": [
+            {
+                "title": "image metrics",
+                "desc": " 3D facial animation",
+                "url": "http://www.image-metrics.com/Company/About"
+            },
+            {
+                "title": "Nine Point Medical",
+                "desc": " optical systems for in vivo diagnosis",
+                "url": "http://www.ninepointmedical.com/#/company"
+            },
+            {
+                "title": "Sony",
+                "desc": "gaming interface",
+                "url": "http://www.playstationjobs.co.uk/vacancy/437-Computer-Vision-Researcher-%28Gaming-interfaces%29&amp;page=1"
+            },
+            {
+                "title": "Skin Analytics",
+                "desc": "Skin cancer prevention",
+                "url": "http://www.skin-analytics.com/"
+            },
+            {
+                "title": "Birdi",
+                "desc": "Satellite imagery API",
+                "url": "http://hibirdi.com/"
+            }
+        ]
+    },
+    "tr": {
+        "t": "Turkey",
+        "data": [
+            {
+                "title": "Armut",
+                "desc": "machine learning & ai developer intern",
+                "url": "https://tr.linkedin.com/jobs/view/machine-learning-a%C4%B1-developer-%C4%B1ntern-at-armut-983611739?trkInfo=searchKeywordString%3AComputer%2BVision%2CsearchLocationString%3A%252C%2B%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A5%2CMSRPsearchId%3Aa2890aa6-421a-4976-91d6-9bbf814aadb3&refId=a2890aa6-421a-4976-91d6-9bbf814aadb3&trk=jobs_jserp_job_listing_text"
+            },
+            {
+                "title": "Arçelik",
+                "desc": "deep learning",
+                "url": "https://tr.linkedin.com/jobs/view/senior-specialist-computer-vision-applications-at-ar%C3%A7elik-global-967622215?trkInfo=searchKeywordString%3AComputer%2BVision%2CsearchLocationString%3A%252C%2B%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A1%2CMSRPsearchId%3Aa2890aa6-421a-4976-91d6-9bbf814aadb3&refId=a2890aa6-421a-4976-91d6-9bbf814aadb3&trk=jobs_jserp_job_listing_text"
+            },
+            {
+                "title": "ATP",
+                "desc": "concept definition, prototyping, development and implementatio",
+                "url": "https://tr.linkedin.com/jobs/view/computer-vision-engineer-at-atp-1005642545?trkInfo=searchKeywordString%3AComputer%2BVision%2CsearchLocationString%3A%252C%2B%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A3%2CMSRPsearchId%3Aa2890aa6-421a-4976-91d6-9bbf814aadb3&refId=a2890aa6-421a-4976-91d6-9bbf814aadb3&trk=jobs_jserp_job_listing_text"
+            },
+            {
+                "title": "Baykar Technologies",
+                "desc": "c++, computer vision / image processing",
+                "url": "https://tr.linkedin.com/jobs/view/vision-engineer-at-baykar-technologies-810377600?trkInfo=searchKeywordString%3AComputer%2BVision%2CsearchLocationString%3A%252C%2B%2Cvertical%3Ajobs%2CpageNum%3A0%2Cposition%3A4%2CMSRPsearchId%3Aa2890aa6-421a-4976-91d6-9bbf814aadb3&refId=a2890aa6-421a-4976-91d6-9bbf814aadb3&trk=jobs_jserp_job_listing_text"
+            },
+            {
+                "title": "Kade Vision",
+                "desc": "video analytics",
+                "url": "http://www.linkedin.com/company/kade-vision"
+            }
+        ]
+    },
+    "nl": {
+        "t": "Netherlands",
+        "data": [
+            {
+                "title": "third sight",
+                "desc": "Emotion and Face recognition",
+                "url": "http://thirdsight.co/"
+            },
+            {
+                "title": "philips",
+                "desc": "medical imagery",
+                "url": "http://jobs.philips.com/"
+            },
+            {
+                "title": "virtual proteins",
+                "desc": "3D medical imagery",
+                "url": "http://www.virtualproteins.com/"
+            },
+            {
+                "title": "layar",
+                "desc": " mobile augmented reality",
+                "url": "http://www.layar.com/company/jobs/"
+            },
+            {
+                "title": "ps-tech",
+                "desc": "optical tracking device",
+                "url": "http://ps-tech.com/tracking/pst-55/"
+            },
+            {
+                "title": "TNO",
+                "desc": "All kind of Image Processing",
+                "url": "http://www.tno.nl/werkenbij/"
+            },
+            {
+                "title": "SightCorp's website",
+                "desc": " Face Analysis Technologies",
+                "url": "http://www.tno.nl/werkenbij/"
+            },
+            {
+                "title": "Euvision Technologies",
+                "desc": "Automatic Image Moderation and Classification",
+                "url": "http://www.euvt.eu/"
+            },
+            {
+                "title": "Eagle Vision",
+                "desc": " Industrial Computer Vision",
+                "url": "http://www.eaglevision.nl/"
+            }
+        ]
+    },
+    "be": {
+        "t": "Belgium",
+        "data": [
+            {
+                "title": "traficon",
+                "desc": "traffic video analytics",
+                "url": "http://www.traficon.com/index.jsp"
+            }
+        ]
+    },
+    "jp": {
+        "t": "Japan",
+        "data": [
+            {
+                "title": "ayonix",
+                "desc": "facial recognition",
+                "url": "http://ayonix.com/"
+            },
+            {
+                "title": "morpho",
+                "desc": "Computational photography, deep learning",
+                "url": "http://www.morphoinc.com/en"
+            }
+        ]
+    },
+    "ch": {
+        "t": "Switzerland",
+        "data": [
+            {
+                "title": "Crisalix",
+                "desc": "aesthetic and plastic surgery",
+                "url": "http://www.crisalix.com/en"
+            }
+        ]
+    },
+    "il": {
+        "t": "Israel",
+        "data": [
+            {
+                "title": "picscout website",
+                "desc": "Track, license and monetize imagery",
+                "url": "http://www.picscout.com/"
+            },
+            {
+                "title": "RSIP Vision Website",
+                "desc": "Image Processing Services",
+                "url": "http://rsipvision.com/"
+            }
+        ]
+    },
+    "kr": {
+        "t": "South Korea",
+        "data": [
+            {
+                "title": "Odd Concepts",
+                "desc": "Image recognition platform for commerce",
+                "url": "http://oddconcepts.io"
+            }
+        ]
+    },
+    "cn": {
+        "t": "China",
+        "data": [
+            {
+                "title": "BitRefine Group",
+                "desc": "Machine Learning and Computer Vision solutions",
+                "url": "http://bitrefine.group"
+            },
+            {
+                "title": "Face++",
+                "desc": "Facial and Body recognition",
+                "url": "http://www.faceplusplus.com/"
+            },
+            {
+                "title": "SenseTime",
+                "desc": "Facial recognition",
+                "url": "http://www.sensetime.com"
+            },
+            {
+                "title": "thundersoft",
+                "desc": "Smart car solutions",
+                "url": "http://www.thundersoft.com/index.php"
+            },
+            {
+                "title": "tusimple",
+                "desc": "Autonomous driving",
+                "url": "http://www.tusimple.com"
+            }
+        ]
+    }
+}

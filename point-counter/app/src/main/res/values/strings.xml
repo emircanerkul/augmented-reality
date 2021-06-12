@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Point Counter</string>
+    <string name="count_points">Calculate Points</string>
+    <string name="wait_process">Process is running. Please waiting.</string>
+    <string name="cam_perm_granted">Camera permission granted</string>
+    <string name="cam_perm_denied">Camera permission denied</string>
+    <string name="photo_capture">Capture Photo</string>
+</resources>
