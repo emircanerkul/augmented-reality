@@ -7,7 +7,7 @@ In this project, I demonstrated how AR works on a browser. I used [jsartoolkit5]
 
 ## Demo
 
-You can try clicking right [here](https://emircanerkul.github.io/augmented-reality/). You need to give camera permission to the browser. Before using this demo you need some cards. Click [here](https://emircanerkul.github.io/augmented-reality/assets/data/cards.pdf) for downloading card file. After that, you need to print and cut four pieces and flip the left one for giving a command to the robot.
+You can try clicking right [here](https://emircanerkul.github.io/augmented-reality/). You need to give camera permission to the browser. Before using this demo you need some cards. Click [here](https://emircanerkul.github.io/augmented-reality/assets/data/cards.pdf) for downloading card file. After that, you need to print and cut four pieces and flip the left one for giving a command to the robot or just use two phones. One is for the standing robot and the other is for commanding the robot.
 
 ### Card Types
 - 4E: Robot will be on this card. (4E stands for my group short name)
